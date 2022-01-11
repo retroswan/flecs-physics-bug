@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include",
+                "/home/swan/Programming/Libraries/Debug/flecs-master/include"
+            ],
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}
